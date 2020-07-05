@@ -1,8 +1,7 @@
 # Django_calculation
-Django計算機
-<br>
-システム構成図<br>
+Djangoの足し算計算機
 <pre>
+システム構成図
 mycalc.
 ├── basic_calc
 │   ├── __init__.py
