@@ -1,5 +1,5 @@
 # Django_calculation
-Djangoの足し算計算機
+Djangoの簡単な足し算計算機
 <pre>
 システム構成図
 mycalc.
