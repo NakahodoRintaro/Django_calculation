@@ -2,7 +2,7 @@
 Django's simple only addition calculator
 <pre>
 System Configuration
-mycalc.
+calclation.
 ├── basic_calc
 │   ├── __init__.py
 │   ├── __pycache__
@@ -48,9 +48,16 @@ mycalc.
 </pre>
 ## implementation
 ```
-python manage.py
+cd calclation
 ```
 
+```
+python manage.py runserver
+```
+```
+Django version 3.0.7, using settings 'calc.settings'
+Starting development server at http://127.0.0.1:8000/
+```
 ## Enviroment
 - python3.7
   - Django
