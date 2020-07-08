@@ -1,7 +1,7 @@
-# Django_calculation
-Djangoの簡単な足し算計算機
+# Django calculation
+Django's simple only addition calculator
 <pre>
-システム構成図
+System Configuration
 mycalc.
 ├── basic_calc
 │   ├── __init__.py
@@ -46,3 +46,11 @@ mycalc.
 
 
 </pre>
+## implementation
+```
+python manage.py
+```
+
+## Enviroment
+- python3.7
+  - Django
