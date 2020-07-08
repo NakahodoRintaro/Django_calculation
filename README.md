@@ -47,17 +47,21 @@ calclation.
 
 </pre>
 ## implementation
-```
+```Terminal
 cd calclation
 ```
 
 ```
 python manage.py runserver
 ```
-```
+
+```result
 Django version 3.0.7, using settings 'calc.settings'
 Starting development server at http://127.0.0.1:8000/
 ```
+
+If successful, you'll see something like this image.
+![system_image](https://github.com/NakahodoRintaro/Django_calculation/blob/master/images/system_image.png)
 ## Enviroment
 - python3.7
-  - Django
+  - Django 3.0.7
